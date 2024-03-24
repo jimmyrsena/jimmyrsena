@@ -33,7 +33,7 @@
   <a href="https://www.instagram.com/jimmysena/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="jimmyrsena" target="_blank">
+  <a href="922507857105158164" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a href="www.linkedin.com/in/jimmy-richard-430b16228" target="_blank">
