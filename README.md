@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Jimmy Richard and I'm a student computer developer, from Brazil, Belém-PA</h2>
+<h2 align="left">Hi 👋! Olá a todos, meu nome é Jimmy Richard E sou um desenvolvedor de computadores estudante, do Brasil, Belém-PA</h2>
 
 ###
 
