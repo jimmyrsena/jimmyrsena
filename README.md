@@ -32,14 +32,11 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Python - Exploratory data analysis](https://github.com/VariableBee/EDA_Loggi)
-- [Google Data Studio - COVID-19 Interactive Dashboard](https://github.com/VariableBee/COVID_19_DASHBOARD)
-- [SQL - Querying and analyzing data with AWS Athena](https://github.com/VariableBee/AWS_Athena_Queries)
-- [C - Registration and query system](https://github.com/VariableBee/Cartorio)
+- [Em construção]()
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+ <img align="right" height="150" src="https://i.gifer.com/75lD.gif"  />
 </p>
 
 ## 🔥 Skills
