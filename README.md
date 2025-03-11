@@ -9,7 +9,7 @@
 <p align="center">
   🌱 Tenho formação em Administração de Empresas e Análise de Sistemas, com pós-graduação em Gestão de TI e Perícia Forense Cibernética.
   <br>
-  🔭 Estou em busca da minha primeira oportunidade de emprego. Meu sonho é trabalhar com IA e Desenvolvimento de Sistemas.
+  🔭 Estou em busca de desafios. Meu sonho é trabalhar com IA e Desenvolvimento de Sistemas.
 </p>
 
 <details>
@@ -35,6 +35,8 @@
 <!-- Portfolio -->
 ## Portfólio:
 - Em construção
+
+---
 
 ## 🔥 Habilidades
 <!-- Habilidades: Linguagens de Programação -->
