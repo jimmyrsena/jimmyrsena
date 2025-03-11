@@ -33,6 +33,9 @@
   <img src="https://i.gifer.com/75lD.gif" height="150" alt="GIF">
 </p>
 
+<!-- Snake Animation -->
+!Snake animation
+
 <!-- Portfolio -->
 ## Portfolio:
 - Em construção
