@@ -16,7 +16,7 @@
 <details>
   <summary>👨‍💻 More about me</summary>
   <p>
-    - 💬 I am 46 years old and currently living in Brazil. I have experience with JavaScript, PHP, SQL, and now, I am learning Python and Data Analysis, Data Visualization, and Machine Learning. I have also learned computer forensic analysis, which has helped me develop important skills such as creativity, communication, marketing, analytical capability, and computational management.
+    - 💬 I am 46 years old and currently living in Brazil. I have experience with JavaScript, PHP, SQL, and now, I am learning Python, Data Analysis, Data Visualization, and Machine Learning. I have also learned computer forensic analysis, which has helped me develop important skills such as creativity, communication, marketing, analytical capability, and computational management.
     <br>
     - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
   </p>
