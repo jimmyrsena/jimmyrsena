@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  🌱 Tenho formação em Administração de Empresas e Análise de Sistemas, com pós-graduação em Gestão de TI e Perícia Forense Cibernética.
+  🌱 Tenho formação em Administração de Empresas e Análise de Sistemas, com pós-graduação em Gestão de TI e Perícia Forense Computacional.
   <br>
   🔭 Estou em busca de desafios. Meu sonho é trabalhar com IA e Desenvolvimento de Sistemas.
 </p>
