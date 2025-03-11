@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  - 🌱 I have a degree in Business Administration and Systems Analysis, with a postgraduate degree in IT Management and Cyber Forensic Expertise. <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
+  - 🌱 I have a degree in Business Administration and Systems Analysis, with a postgraduate degree in IT Management and Cyber Forensic Expertise.
   <br>
   - 🔭 I am looking for my first job opportunity. My dream is to one day work with AI and Systems Development.
 </p>
