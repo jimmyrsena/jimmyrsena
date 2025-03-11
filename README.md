@@ -1,23 +1,23 @@
 <!-- Título -->
-<h1 align="center">Hello World</h1>
+<h1 align="center">Olá Mundo</h1>
 
 <!-- Apresentação -->
 <p align="center">
-  Hi 👋, I'm Jimmy Veiga! A passionate Systems Development student from Brazil.
+  Olá 👋, eu sou Jimmy Veiga! Um apaixonado estudante de Desenvolvimento de Sistemas do Brasil.
 </p>
 
 <p align="center">
-  🌱 I have a degree in Business Administration and Systems Analysis, with a postgraduate degree in IT Management and Cyber Forensic Expertise.
+  🌱 Tenho formação em Administração de Empresas e Análise de Sistemas, com pós-graduação em Gestão de TI e Perícia Forense Cibernética.
   <br>
-  🔭 I am looking for my first job opportunity. My dream is to one day work with AI and Systems Development.
+  🔭 Estou em busca da minha primeira oportunidade de emprego. Meu sonho é trabalhar com IA e Desenvolvimento de Sistemas.
 </p>
 
 <details>
-  <summary>👨‍💻 More about me</summary>
+  <summary>👨‍💻 Mais sobre mim</summary>
   <p>
-    💬 I am 46 years old and currently living in Brazil. I have experience with JavaScript, PHP, SQL, and now, I am learning Python, Data Analysis, Data Visualization, and Machine Learning. I have also learned computer forensic analysis, which has helped me develop important skills such as creativity, communication, marketing, analytical capability, and computational management.
+    💬 Tenho 46 anos e atualmente moro no Brasil. Tenho experiência com JavaScript, PHP, SQL e agora estou aprendendo Python, Análise de Dados, Visualização de Dados e Machine Learning. Também aprendi análise forense computacional, o que me ajudou a desenvolver habilidades importantes como criatividade, comunicação, marketing, capacidade analítica e gestão computacional.
     <br>
-    ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
+    ⚡ Gosto de ler, seja um bom livro, mangá ou quadrinhos, além de assistir filmes e jogar! Acredito que nossos interesses pessoais contribuem para uma percepção mais refinada das coisas e resolução de problemas. \o/
   </p>
 </details>
 
@@ -33,12 +33,12 @@
 </p>
 
 <!-- Portfolio -->
-## Portfolio:
+## Portfólio:
 - Em construção
 
-## 🔥 Skills
-<!-- Skills: Programming Languages -->
-<h3>Programming Languages</h3>
+## 🔥 Habilidades
+<!-- Habilidades: Linguagens de Programação -->
+<h3>Linguagens de Programação</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" height="30" width="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" height="30" width="40">
@@ -47,16 +47,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" height="30" width="40">
 </p>
 
-<!-- Skills: Tools & Frameworks -->
-<h3>Tools & Frameworks</h3>
+<!-- Habilidades: Ferramentas e Frameworks -->
+<h3>Ferramentas e Frameworks</h3>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" height="30" width="40">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" height="30" width="40">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="30" width="40">
 </p>
 
-<!-- Skills: Libraries -->
-<h3>Libraries</h3>
+<!-- Habilidades: Bibliotecas -->
+<h3>Bibliotecas</h3>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="Numpy" height="30" width="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" height="30" width="40">
