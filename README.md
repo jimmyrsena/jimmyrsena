@@ -27,22 +27,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jimmy-richard-de-sena-veiga-430b16228/)
 
 
-<!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=variablebee&show_icons=true&theme=gotham)
-
+<!-- GIF -->
+<p align="left">
+<img align="right" height="150" src="https://i.gifer.com/75lD.gif"  />
+</p>
 <!-- Portfolio -->
 ## Portfolio:
 - [Em construção]()
-
-<!-- GIF -->
-<p align="left">
- <img align="right" height="150" src="https://i.gifer.com/75lD.gif"  />
-</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
